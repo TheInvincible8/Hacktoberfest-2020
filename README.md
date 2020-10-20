@@ -17,8 +17,7 @@ Rules:
 
  
 
-Go-Ahead and Contribute, the most unique program will have a special surprise 
+Go ahead and contribute, the most unique program will have a special surprise 
 from us.
 Happy Coding.
-
-&copy;[Techsalicious](https://www.techsalicious.com/ "Techsalicious")
+[&copy;Techsalicious](https://www.techsalicious.com/ "Techsalicious")
